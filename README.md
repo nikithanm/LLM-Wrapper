@@ -1,8 +1,8 @@
 
-1. Objective & Problem Statement
+1. Objective & Problem Statement-
 The objective of this project was to build an LLM-powered search application that integrates multiple AI models to provide accurate and consolidated responses. The project aimed to solve the problem of fragmented AI outputs by allowing inter-LLM conversations before generating a final response. Additionally, it provided user management and search history tracking to enhance user experience.
 
-2. Methods, Approaches & Tools Used
+2. Methods, Approaches & Tools Used-
 To execute the project efficiently, the following technologies were used:
 Backend: Flask (for handling API requests and user authentication)
 Frontend: Streamlit (for an interactive and user-friendly UI)
@@ -11,7 +11,7 @@ AI Model Integration: PyTorch (for any ML model-related tasks)
 APIs: Gemini & Hugging Face (to generate responses from different LLMs)
 Authentication: Admin and user authentication system for managing searches
 
-3. Specific Tasks & Responsibilities
+3. Specific Tasks & Responsibilities-
 Backend Development: Built Flask-based APIs to handle user authentication, search history, and AI model interactions.
 Database Management: Designed and implemented a relational database to store user data and search logs.
 LLM Integration: Integrated Gemini and Hugging Face APIs to enable multi-model conversation.
@@ -19,10 +19,10 @@ Frontend Development: Created an interactive UI using Streamlit for users to inp
 User Management: Enabled login, registration, and anonymous search functionality.
 Search Optimization: Ensured logged-in users could access their search history for a better user experience.
 
-4. Team Project
+4. Team Project-
 This was a team project, requiring collaboration to ensure seamless integration between backend, frontend, and AI models.
 
-5. My Role & Contribution
+5. My Role & Contribution-
 Developed the backend using Flask, ensuring smooth API communication.
 Handled database integration to store and retrieve user search history.
 Worked on LLM API integration, ensuring responses from multiple models were consolidated properly.
