@@ -19,7 +19,7 @@ Frontend Development: Created an interactive UI using Streamlit for users to inp
 User Management: Enabled login, registration, and anonymous search functionality.
 Search Optimization: Ensured logged-in users could access their search history for a better user experience.
 
-4. Independent or Team Project?
+4. Team Project
 This was a team project, requiring collaboration to ensure seamless integration between backend, frontend, and AI models.
 
 5. My Role & Contribution
