@@ -4,7 +4,6 @@ The objective of this project was to build an LLM-powered search application tha
 
 2. Methods, Approaches & Tools Used
 To execute the project efficiently, the following technologies were used:
-
 Backend: Flask (for handling API requests and user authentication)
 Frontend: Streamlit (for an interactive and user-friendly UI)
 Database: SQLite (to store user searches and history)
